@@ -1,5 +1,5 @@
 
-## 🌐Nhận viết code thuê nằm trong khả năng phí siêu rẻ 
+## 🌐Nhận viết code thuê nằm trong khả năng phí siêu rẻ (C/C++/Python)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/pham.hong.anh.807668/about/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chep_code_lo?igsh=MWN5OXV1cnFjcmN3ZQ%3D%3D&utm_source=qr) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@phamhonganh3708) 
 
 # 💻Tech Stack
